@@ -1,5 +1,4 @@
 /** @format */
-
 // JSON-Daten, die die Excel-Tabelle enthalten
 var data = [
   { name: "Item 1", checked: true },
